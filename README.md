@@ -8,7 +8,9 @@ The image below shows the interface where all infos are. There are a lot of visu
 On the right side you can see a Tab Control. The Layout tab that is being shown is used to place the coordinates of all objects (walls, gurneys, dispensary, pads and stands), which is necessary for the robot to know the Hospital environment. With these infos it is possible to determine all the moviments necessary to complete the tasks.
 
 The Evaluation tab is used to enter the Work Order Chart and the initial state of the Dispensary. This information will be used when running the simulation in Evaluation mode. An example using this tool can be seen here: https://youtu.be/bnKrGPTR3d0
+
 ![image](https://user-images.githubusercontent.com/103584400/164044568-228fe85c-7444-4f49-acde-df7511a03e98.png)
 
 The Simulation tab is used 
+
 ![image](https://user-images.githubusercontent.com/103584400/164045792-463c9047-a0e4-455c-9944-290625d2d10d.png)
