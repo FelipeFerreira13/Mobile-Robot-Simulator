@@ -15,6 +15,6 @@ The Simulation tab is used to control some simulation parameters and is also use
 
 ![image](https://user-images.githubusercontent.com/103584400/164045792-463c9047-a0e4-455c-9944-290625d2d10d.png)
 
-The last tab 
+The last tab is intended to simulate a position correction using a distance sensor. To do that it is necessary to insert the sensor position according to the robot's center. With this strategy it is possible to determine the robot position with any distance sensor without needing to manual insert the wall position, the software calculates by eachself which wall it is being used by the sensor.
 
 ![image](https://user-images.githubusercontent.com/103584400/164049132-5709d7e9-d0bb-46a2-9748-8035b582da16.png)
